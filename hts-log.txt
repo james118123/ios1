@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 27 May 2026 04:18:02 at https://gjhrty.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gjhrty.com/ -O1 "C:\My Web Sites\hjjhsd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:18:15	Error: 	"Not Found" (404) at link https://gjhrty.com/code.jquery.com/jquery-1.12.0.min.js (from https://gjhrty.com/)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/apple/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/mac/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/mac/image_small.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/ipad/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/ipad/image_small.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/iphone/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/iphone/image_small.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/watch/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/watch/image_small.svg (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/tv/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/tv/image_small.svg (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/music/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/music/image_small.svg (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/support/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/links/support/image_small.svg (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/search/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/search/image_small.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/bag/image_large.html (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/bag/image_small.svg (from https://gjhrty.com/Base.css)
+04:18:16	Error: 	"Not Found" (404) at link https://gjhrty.com/globalnav/search/icon_reset_small.html (from https://gjhrty.com/Base.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 35 links scanned, 12 files written (1170744 bytes overall) [692469 bytes received at 49462 bytes/sec], 604494 bytes transferred using HTTP compression in 7 files, ratio 17%, 5.8 requests per connection
+(21 errors, 0 warnings, 0 messages)
